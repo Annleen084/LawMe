@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="th" class="h-full">
  <head>
   <meta charset="UTF-8">
